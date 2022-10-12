@@ -1,0 +1,513 @@
+{
+  "name": "Snipa exchange tokens",
+  "timestamp": "2022-10-12T13:36:40.243Z",
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  },
+  "logoURI": "",
+  "keywords": ["huobi", "mexc", "kukoin"],
+  "tokens": [
+    {
+      "name": "Aave",
+      "symbol": "AAVE",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/aave.png"
+    },
+    {
+      "name": "Cardano Token",
+      "symbol": "ADA",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/ada.png"
+    },
+    {
+      "name": "ALICE",
+      "symbol": "ALICE",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/alice.png"
+    },
+    {
+      "name": "Amp",
+      "symbol": "AMP",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/amp.png"
+    },
+    {
+      "name": "Aragon Network Token",
+      "symbol": "ANT",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/ant.png"
+    },
+    {
+      "name": "ApeCoin",
+      "symbol": "APE",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/ape.png"
+    },
+    {
+      "name": "Automata",
+      "symbol": "ATA",
+      "logoURI": "https://www.mexc.com/api/file/download/F20210831120351357HeNXoXOoj3IEOc"
+    },
+    {
+      "name": "Cosmos Token",
+      "symbol": "ATOM",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/atom.png"
+    },
+    {
+      "name": "Axie Infinity Shard",
+      "symbol": "AXS",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/axs.png"
+    },
+    {
+      "name": "Baby Doge Coin",
+      "symbol": "BABYDOGE",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/babydoge.png"
+    },
+    {
+      "name": "Balancer",
+      "symbol": "BAL",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/bal.png"
+    },
+    {
+      "name": "Band Protocol",
+      "symbol": "BAND",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/band.png"
+    },
+    {
+      "name": "Bella Protocol",
+      "symbol": "BEL",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/bel.png"
+    },
+    {
+      "name": "Binemon",
+      "symbol": "BIN",
+      "logoURI": "https://www.mexc.com/api/file/download/F20210826180634768hngbJkeawVZH8J"
+    },
+    {
+      "name": "Binamon",
+      "symbol": "BMON",
+      "logoURI": "https://assets-currency.kucoin.com/61a084a4d09f0b00066cfd0b_logo%20-%2064x64.png"
+    },
+    {
+      "name": "BNB Token",
+      "symbol": "BNB",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/bnb.png"
+    },
+    {
+      "name": "Bancor Network Token",
+      "symbol": "BNT",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/bnt.png"
+    },
+    {
+      "name": "BinaryX",
+      "symbol": "BNX",
+      "logoURI": "https://www.mexc.com/api/file/download/F20210916140539494ipdghbrhJJwsMu"
+    },
+    {
+      "name": "BunnyPark",
+      "symbol": "BP",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/bp.png"
+    },
+    {
+      "name": "BSCPAD.com",
+      "symbol": "BSCPAD",
+      "logoURI": "https://www.mexc.com/api/file/download/F20220105103555796Exc9Y1KAcFsEzR"
+    },
+    {
+      "name": "BitTorrent",
+      "symbol": "BTT",
+      "logoURI": "https://www.mexc.com/api/file/download/F20210517113516446ioNNXt3XcUtgWS"
+    },
+    {
+      "name": "Coin98",
+      "symbol": "C98",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/c98.png"
+    },
+    {
+      "name": "Tranchess",
+      "symbol": "CHESS",
+      "logoURI": "https://www.mexc.com/api/file/download/F20210822114119566nOC6Ebx9bsvGXe"
+    },
+    {
+      "name": "Chroma",
+      "symbol": "CHR",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/chr.png"
+    },
+    {
+      "name": "Compound",
+      "symbol": "COMP",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/comp.png"
+    },
+    {
+      "name": "Curve DAO Token",
+      "symbol": "CRV",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/crv.png"
+    },
+    {
+      "name": "Civic",
+      "symbol": "CVC",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/cvc.png"
+    },
+    {
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/dai.png"
+    },
+    {
+      "name": "DeRace Token",
+      "symbol": "DERC",
+      "logoURI": "https://www.mexc.com/api/file/download/F20220924164020824M6cxajDWtSQ8K6"
+    },
+    {
+      "name": "DODO bird",
+      "symbol": "DODO",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/dodo.png"
+    },
+    {
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/doge.png"
+    },
+    {
+      "name": "My DeFi Pet Token",
+      "symbol": "DPET",
+      "logoURI": "https://www.mexc.com/api/file/download/F20210611114144428FDGdTgHwj5I9ny"
+    },
+    {
+      "name": "Dvision",
+      "symbol": "DVI",
+      "logoURI": "https://www.mexc.com/api/file/download/F20211030093736067aY5lOL6Hqpq0rd"
+    },
+    {
+      "name": "Ethereum Name Service",
+      "symbol": "ENS",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/ens.png"
+    },
+    {
+      "name": "Ellipsis",
+      "symbol": "EPS",
+      "logoURI": "https://assets-currency.kucoin.com/6267b4c872efd500013940bd_MicrosoftTeams-image.png"
+    },
+    {
+      "name": "Everscale",
+      "symbol": "EVER",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/ever.png"
+    },
+    {
+      "name": "FaraCrystal",
+      "symbol": "FARA",
+      "logoURI": "https://www.mexc.com/api/file/download/F20210825120311052YFzKAOe0jyEAae"
+    },
+    {
+      "name": "FLOKI",
+      "symbol": "FLOKI",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/floki.png"
+    },
+    {
+      "name": "Formation Finance",
+      "symbol": "FORM",
+      "logoURI": "https://www.mexc.com/api/file/download/F2021080311032522815ub0eMFBbolNS"
+    },
+    {
+      "name": "Frontier Token",
+      "symbol": "FRONT",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/front.png"
+    },
+    {
+      "name": "Gnosis Token",
+      "symbol": "GNO",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/gno.png"
+    },
+    {
+      "name": "CyberDragon Gold",
+      "symbol": "GOLD",
+      "logoURI": "https://www.mexc.com/api/file/download/F20211020184306276JT6Kt6wHLMQ9Z7"
+    },
+    {
+      "name": "The Graph",
+      "symbol": "GRT",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/grt.png"
+    },
+    {
+      "name": "StepHero",
+      "symbol": "HERO",
+      "logoURI": "https://www.mexc.com/api/file/download/F202108192024245003u6Lq7XMNQ2d4I"
+    },
+    {
+      "name": "Injective Protocol",
+      "symbol": "INJ",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/inj.png"
+    },
+    {
+      "name": "IoTeX Network",
+      "symbol": "IOTX",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/iotx.png"
+    },
+    {
+      "name": "Kaby Arena",
+      "symbol": "KABY",
+      "logoURI": "https://www.mexc.com/api/file/download/F202111111315282075zbQUDJ2X0EqIb"
+    },
+    {
+      "name": "Keep Network",
+      "symbol": "KEEP",
+      "logoURI": "https://www.mexc.com/api/file/download/F20210707164844854BFyMJX5onJcp9S"
+    },
+    {
+      "name": "Kyber Network Crystal",
+      "symbol": "KNC",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/knc.png"
+    },
+    {
+      "name": "Linear Token",
+      "symbol": "LINA",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/lina.png"
+    },
+    {
+      "name": "ChainLink Token",
+      "symbol": "LINK",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/link.png"
+    },
+    {
+      "name": "Loom Network",
+      "symbol": "LOOM",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/loom.png"
+    },
+    {
+      "name": "LoopringCoin V2",
+      "symbol": "LRC",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/lrc.png"
+    },
+    {
+      "name": "Decentraland",
+      "symbol": "MANA",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/mana.png"
+    },
+    {
+      "name": "Mask Network",
+      "symbol": "MASK",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/mask.png"
+    },
+    {
+      "name": "Polygon",
+      "symbol": "MATIC",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/matic.png"
+    },
+    {
+      "name": "Mobox",
+      "symbol": "MBOX",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/mbox.png"
+    },
+    {
+      "name": "Maker",
+      "symbol": "MKR",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/mkr.png"
+    },
+    {
+      "name": "Melon",
+      "symbol": "MLN",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/mln.png"
+    },
+    {
+      "name": "Monsta Infinite Token",
+      "symbol": "MONI",
+      "logoURI": "https://www.mexc.com/api/file/download/F2021101716160642443dNnhYuyM1P9e"
+    },
+    {
+      "name": "MX Token",
+      "symbol": "MX",
+      "logoURI": "https://www.mexc.com/api/file/download/F20210511104316596l8SbA7kV5PndIx"
+    },
+    {
+      "name": "Numeraire",
+      "symbol": "NMR",
+      "logoURI": "https://www.mexc.com/api/file/download/F20210517145231024P1w4TB9wn0xADt"
+    },
+    {
+      "name": "Nerve",
+      "symbol": "NRV",
+      "logoURI": "https://www.mexc.com/api/file/download/F20210412121755210kOtMpgz8nhBdkI"
+    },
+    {
+      "name": "NuCypher",
+      "symbol": "NU",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/nu.png"
+    },
+    {
+      "name": "Harmony ONE",
+      "symbol": "ONE",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/one.png"
+    },
+    {
+      "name": "Orchid",
+      "symbol": "OXT",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/oxt.png"
+    },
+    {
+      "name": "Pink Token",
+      "symbol": "PINK",
+      "logoURI": "https://www.mexc.com/api/file/download/F20210725135505037jDwnkyJrNqdWGE"
+    },
+    {
+      "name": "Polkamon",
+      "symbol": "PMON",
+      "logoURI": "https://www.mexc.com/api/file/download/F20210402111544918PkFmZoj20z2FDn"
+    },
+    {
+      "name": "Quartz",
+      "symbol": "QTZ",
+      "logoURI": "https://www.mexc.com/api/file/download/F202112301147124728v19CTR1QxxqrS"
+    },
+    {
+      "name": "Radio Caca V2",
+      "symbol": "RACA",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/raca.png"
+    },
+    {
+      "name": "Reef.finance",
+      "symbol": "REEF",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/reef.png"
+    },
+    {
+      "name": "Republic Token",
+      "symbol": "REN",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/ren.png"
+    },
+    {
+      "name": "Revoland Governance",
+      "symbol": "REVO",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/revo.png"
+    },
+    {
+      "name": "SafePal Token",
+      "symbol": "SFP",
+      "logoURI": "https://www.mexc.com/api/file/download/F20220818155606073GJbpI2WYbpF8Nl"
+    },
+    {
+      "name": "SeedifyFund",
+      "symbol": "SFUND",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/sfund.png"
+    },
+    {
+      "name": "CryptoBlades Skill Token",
+      "symbol": "SKILL",
+      "logoURI": "https://www.mexc.com/api/file/download/F20210722162152965mQKq3ONpkcPW7Q"
+    },
+    {
+      "name": "Synthetix Network Token",
+      "symbol": "SNX",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/snx.png"
+    },
+    {
+      "name": "Splintershards",
+      "symbol": "SPS",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/sps.png"
+    },
+    {
+      "name": "Storj Token",
+      "symbol": "STORJ",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/storj.png"
+    },
+    {
+      "name": "SushiToken",
+      "symbol": "SUSHI",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/sushi.png"
+    },
+    {
+      "name": "Swipe",
+      "symbol": "SXP",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/sxp.png"
+    },
+    {
+      "name": "Tokocrypto Token",
+      "symbol": "TKO",
+      "logoURI": "https://www.mexc.com/api/file/download/F20220210175618010x0XbECXNsOQUss"
+    },
+    {
+      "name": "Alien Worlds Trilium",
+      "symbol": "TLM",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/tlm.png"
+    },
+    {
+      "name": "TokenPocket Token",
+      "symbol": "TPT",
+      "logoURI": "https://www.mexc.com/api/file/download/F20210517140017660c4hr7nxIccPRQt"
+    },
+    {
+      "name": "TRON",
+      "symbol": "TRX",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/trx.png"
+    },
+    {
+      "name": "TrueUSD",
+      "symbol": "TUSD",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/tusd.png"
+    },
+    {
+      "name": "Trust Wallet",
+      "symbol": "TWT",
+      "logoURI": "https://www.mexc.com/api/file/download/F20210517135829141VDLt3SvWeNQvKL"
+    },
+    {
+      "name": "UMA Voting Token v1",
+      "symbol": "UMA",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/uma.png"
+    },
+    {
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/uni.png"
+    },
+    {
+      "name": "Unique Network",
+      "symbol": "UNQ",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/unq.png"
+    },
+    {
+      "name": "USDCoin",
+      "symbol": "USDC",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/usdc.png"
+    },
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/usdt.png"
+    },
+    {
+      "name": "Wrapped UST Token",
+      "symbol": "UST",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/ust.png"
+    },
+    {
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/wbtc.png"
+    },
+    {
+      "name": "WINk",
+      "symbol": "WIN",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/win.png"
+    },
+    {
+      "name": "XRP Token",
+      "symbol": "XRP",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/xrp.png"
+    },
+    {
+      "name": "X World Games",
+      "symbol": "XWG",
+      "logoURI": "https://www.mexc.com/api/file/download/F202110030851196095F0yuH75rA2a8p"
+    },
+    {
+      "name": "YAY Games",
+      "symbol": "YAY",
+      "logoURI": "https://www.mexc.com/api/file/download/F20211003192751994jBBIhZCXmXZXVr"
+    },
+    {
+      "name": "yearn finance",
+      "symbol": "YFI",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/yfi.png"
+    },
+    {
+      "name": "0x Protocol Token",
+      "symbol": "ZRX",
+      "logoURI": "https://www.huobi.com/-/x/hb/p/api/contents/currency/icon/zrx.png"
+    }
+  ]
+}
